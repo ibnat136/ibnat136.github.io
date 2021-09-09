@@ -1,0 +1,62 @@
+*{
+    /* background-image: "/Users/ibnatnuha/Downloads/cs355/The-Evolution-Of-Web-Development-Via-Machine-Learning"; */
+    background-color: rgb(211, 204, 204);
+}
+.myname{
+ border: 110px hiden;
+  position: absolute;
+  left: auto;
+  width: 100px;
+  height: 120px;
+  padding-top: 110px;
+  padding-left:80px;
+}
+
+.aboutme{
+    position: absolute;
+  left: 415px;
+  width: 200px;
+  height: 120px;
+  border: 3px hidden;
+  margin-top: 120px;
+  text-align:center;
+  /* margin-right:210px;
+ */
+}
+.aboutmeparagraph{
+    position: absolute;
+  left: 450px;
+  /* width: 200px;
+  height: 120px; */
+  /* border: 3px hidden; */
+  margin-top: 170px;
+  /* text-align:center; */
+}
+.aboutEducation{
+  position: absolute;
+  left: 450px;
+  margin-top: 190px;
+}
+
+.nav{
+    list-style-type: none;
+   padding-left: 950px;
+   overflow: hidden;
+   background-color: rgba(102, 92, 92, 0.637);
+   margin-bottom:190p;
+}
+.list{
+    display: inline;
+    float:left;
+}
+
+li a{
+  display: block;
+  padding: 38px 16px;
+  color:white;
+  /* background-color: #dddddd; */
+  text-decoration: none;
+}
+li a:hover:not(.active) {
+    background-color: #111;
+  }
