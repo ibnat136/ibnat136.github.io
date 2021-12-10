@@ -95,11 +95,12 @@ body {
 .topnav a {
   float: left;
   display: block;
-  color: #b5afcd;
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  background-color:black;
 }
 
 .topnav a:hover {
