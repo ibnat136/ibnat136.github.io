@@ -1,6 +1,6 @@
 *{
   /* background-image: "/Users/ibnatnuha/Downloads/cs355/The-Evolution-Of-Web-Development-Via-Machine-Learning"; */
-  background-color: rgb(211, 204, 204);
+  background: linear-gradient(to top,rgba(192,174,199,95), rgba(254,235,247,55), rgba(255,204,204,20));
 }
 .myname{
 border: 110px hiden;
@@ -95,7 +95,7 @@ body {
 .topnav a {
   float: left;
   display: block;
-  color: #f2f2f2;
+  color: #b5afcd;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
