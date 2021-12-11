@@ -2,6 +2,9 @@
   /* background-image: "/Users/ibnatnuha/Downloads/cs355/The-Evolution-Of-Web-Development-Via-Machine-Learning"; */
   background-color: rgba(255,204,204,11);
 }
+.course{
+  margin-left: 20px;
+}
 .myname{
 border: 110px hiden;
 position: absolute;
