@@ -50,16 +50,7 @@ margin-top: 50px;
   float:left;
 }
 
-li a{
-display: block;
-padding: 38px 16px;
-color:white;
-/* background-color: #dddddd; */
-text-decoration: none;
-}
-li a:hover:not(.active) {
-  background-color: #111;
-}
+
 @media screen and (max-width: 600px) {
 .topnav a:not(:first-child) {display: none;}
 .topnav a.icon {
